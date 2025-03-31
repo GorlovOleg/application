@@ -1,2 +1,3 @@
 This is FileA
-Changed.
+Change 1.
+Change 2.
